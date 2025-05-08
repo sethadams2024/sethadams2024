@@ -2,19 +2,15 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+Please visit my networking Lab Journal for all my resources!
+👉 [Networking Lab Journal](https://github.com/yourusername/Networking-Lab-Journal)
 - <b>osTicket (Help Desk Ticketing System UNDER CONSTRUCTION)</b>
 - <b>Microsoft Azure UNDER CONSTRUCTION</b>
 - <b>Day to Day Documentaries (Studying every day)</b>
-  - [My day-to-day learning summaries](/day_to_day.md)
 - <b>Creating my own LAN</b>
-  - [Creating my own LAN](/CreatingALAN.md)
 - <b>Lenovo PC tower lab</b>
-  - [Lenovo PC Setup Project](/LenovoPCSetupProject.md)
-  - [Role Access on leovo lab](/roleaccess.md)
 - <b>Lenovo latptop upgrading</b>
-  - [Lenovo Laptop upgrade](/LenovoLaptopUpgrade.md)
 - <b>Intalling VirtualBox on Microsoft Surface Pro</b>
-  - [Installing Virtual Box on Surface Pro](/Installing_Virtual_Box.md)
     
 
 ## 🤳 Connect with Me:
