@@ -19,11 +19,9 @@ Please visit my networking Lab Journal for all my resources!
 - <b>Lenovo laptop upgrading</b>
       - [Lenovo Laptop upgrade](https://github.com/sethadams2024/networking-lab-journal/blob/main/LenovoLaptopUpgrade.md)
 - <b>Intalling VirtualBox on Microsoft Surface Pro</b>
-      - [VirtualBox](https://github.com/sethadams2024/networking-lab-journal/blob/main/Installing_Virtual_Box.md)
+      - [VirtualBox](<img src="https://tryhackme-badges.s3.amazonaws.com/sethadams2024.png" alt="Your Image Badge" />)
 - <b>Daily Journal</b>
       - [Journal](https://github.com/sethadams2024/networking-lab-journal/blob/main/journal.md)
-    
-
 ## 🤳 Connect with Me:
 - **[LinkedIn](https://www.linkedin.com/in/seth-adams-sa2025/)**   
 - **Current TryHackMe:**  
