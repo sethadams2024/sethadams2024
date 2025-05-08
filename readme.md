@@ -7,11 +7,15 @@ Please visit my networking Lab Journal for all my resources!
 - <b>osTicket (Help Desk Ticketing System UNDER CONSTRUCTION)</b>
 - <b>Microsoft Azure UNDER CONSTRUCTION</b>
 - <b>Day to Day Documentaries (Studying every day)</b>
-      - [osTicket](https://github.com/sethadams2024/networking-lab-journal/blob/main/day_to_day.md)
+      - [Day to Day summary](https://github.com/sethadams2024/networking-lab-journal/blob/main/day_to_day.md)
 - <b>Creating my own LAN</b>
+      - [Creating a LAN](https://github.com/sethadams2024/networking-lab-journal/blob/main/CreatingALAN.md)
 - <b>Lenovo PC tower lab</b>
-- <b>Lenovo latptop upgrading</b>
+      - [Lenovo PC Tower](https://github.com/sethadams2024/networking-lab-journal/blob/main/LenovoPCSetupProject.md)
+- <b>Lenovo laptop upgrading</b>
+      - [Lenovo Laptop upgrade](https://github.com/sethadams2024/networking-lab-journal/blob/main/LenovoLaptopUpgrade.md)
 - <b>Intalling VirtualBox on Microsoft Surface Pro</b>
+      - [VirtualBox](https://github.com/sethadams2024/networking-lab-journal/blob/main/Installing_Virtual_Box.md)
     
 
 ## 🤳 Connect with Me:
