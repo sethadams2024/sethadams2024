@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 Please visit my networking Lab Journal for all my resources!
-👉 [Networking Lab Journal](https://github.com/yourusername/Networking-Lab-Journal)
+👉 [Networking Lab Journal](https://github.com/sethadams2024/Networking-Lab-Journal)
 - <b>osTicket (Help Desk Ticketing System UNDER CONSTRUCTION)</b>
 - <b>Microsoft Azure UNDER CONSTRUCTION</b>
 - <b>Day to Day Documentaries (Studying every day)</b>
