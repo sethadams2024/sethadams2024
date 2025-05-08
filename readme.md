@@ -24,8 +24,7 @@ Please visit my networking Lab Journal for all my resources!
       - [Journal](https://github.com/sethadams2024/networking-lab-journal/blob/main/journal.md)
 ## 🤳 Connect with Me:
 - **[LinkedIn](https://www.linkedin.com/in/seth-adams-sa2025/)**   
-- **Current TryHackMe:**  
-  ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sethadams2024.png)  
+- **Current TryHackMe:** [TryHackMe](https://tryhackme.com/p/sethadams2024)  
 - **Current Cisco Network Academy Badges:**  
   ![GitHub Profile Image](https://github.com/user-attachments/assets/f705520d-6637-4c12-a78d-9e9e858ec308)  
 
