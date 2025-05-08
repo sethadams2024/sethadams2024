@@ -19,8 +19,7 @@ Please visit my networking Lab Journal for all my resources!
     
 
 ## 🤳 Connect with Me:
-- **[LinkedIn](https://www.linkedin.com/in/seth-adams-sa2025/)**  
-- **[Cisco Networking Academy](https://www.netacad.com/dashboard)**  
+- **[LinkedIn](https://www.linkedin.com/in/seth-adams-sa2025/)**   
 - **Current TryHackMe:**  
   ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/sethadams2024.png)  
 - **Current Cisco Network Academy Badges:**  
