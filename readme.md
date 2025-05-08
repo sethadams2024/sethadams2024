@@ -7,7 +7,7 @@ Please visit my networking Lab Journal for all my resources!
 - <b>osTicket (Help Desk Ticketing System UNDER CONSTRUCTION)</b>
 - <b>Microsoft Azure UNDER CONSTRUCTION</b>
 - <b>Day to Day Documentaries (Studying every day)</b>
-      - [osTicket](https://github.com/sethadams2024/Networking-Lab-Journal/day_to_day.md)
+      - [osTicket](https://github.com/sethadams2024/networking-lab-journal/blob/main/day_to_day.md)
 - <b>Creating my own LAN</b>
 - <b>Lenovo PC tower lab</b>
 - <b>Lenovo latptop upgrading</b>
