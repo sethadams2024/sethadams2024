@@ -22,6 +22,8 @@ Please visit my networking Lab Journal for all my resources!
       - [VirtualBox](<img src="https://tryhackme-badges.s3.amazonaws.com/sethadams2024.png" alt="Your Image Badge" />)
 - <b>Daily Journal</b>
       - [Journal](https://github.com/sethadams2024/networking-lab-journal/blob/main/journal.md)
+- <b> building a new PC with gifted parts </b>
+      - [PC build]
 ## 🤳 Connect with Me:
 - **[LinkedIn](https://www.linkedin.com/in/seth-adams-sa2025/)**   
 - **Current TryHackMe:** [TryHackMe](https://tryhackme.com/p/sethadams2024)  
