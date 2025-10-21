@@ -1,29 +1,14 @@
 <h1>Hi, I'm Seth!</h1>
 
 <h2> About me:</h2>
-<p> I am a recent B.S. Grad from Texas A&M University. For the past 7 months, I have been a data systems coordinator for a Clinical Education Company.
-I recently delved full into networking as the future of my career path, and I am using <b>THIS GITHUB</b>  to show the progress, the learning, the failures, and successes of my journey</p>
+<p> under construction for recent life events </p>
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 Please visit my networking Lab Journal for all my resources!
 👉 [Networking Lab Journal](https://github.com/sethadams2024/Networking-Lab-Journal)
-- <b>osTicket (Help Desk Ticketing System UNDER CONSTRUCTION)</b>
-- <b>Microsoft Azure UNDER CONSTRUCTION</b>
-- <b>Day to Day Documentaries (Studying every day)</b>
-      - [Day to Day summary](https://github.com/sethadams2024/networking-lab-journal/blob/main/day_to_day.md)
-- <b>Creating my own LAN</b>
-      - [Creating a LAN](https://github.com/sethadams2024/networking-lab-journal/blob/main/CreatingALAN.md)
-- <b>Lenovo PC tower lab</b>
-      - [Lenovo PC Tower](https://github.com/sethadams2024/networking-lab-journal/blob/main/LenovoPCSetupProject.md)
-- <b>Lenovo laptop upgrading</b>
-      - [Lenovo Laptop upgrade](https://github.com/sethadams2024/networking-lab-journal/blob/main/LenovoLaptopUpgrade.md)
-- <b>Intalling VirtualBox on Microsoft Surface Pro</b>
-      - [VirtualBox](<img src="https://tryhackme-badges.s3.amazonaws.com/sethadams2024.png" alt="Your Image Badge" />)
-- <b>Daily Journal</b>
-      - [Journal](https://github.com/sethadams2024/networking-lab-journal/blob/main/journal.md)
-- <b> building a new PC with gifted parts </b>
-      - [PC build]
+
 ## 🤳 Connect with Me:
 - **[LinkedIn](https://www.linkedin.com/in/seth-adams-sa2025/)**   
 - **Current TryHackMe:** [TryHackMe](https://tryhackme.com/p/sethadams2024)  
